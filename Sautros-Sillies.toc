@@ -1,0 +1,7 @@
+## Interface: 90002
+## Title: Sautros's Sillies
+## Author: Sautros (Tom K)
+## Version: 0.1.1
+
+Sautros-sillies.lua
+Sautros-sillies.xml
